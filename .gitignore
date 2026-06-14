@@ -4,3 +4,4 @@ call_log.jsonl
 __pycache__/
 .ipynb_checkpoints/
 genai_learning_1.ipynb
+.DS_Store
